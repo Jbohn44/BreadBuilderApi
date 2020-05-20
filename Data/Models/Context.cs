@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Data.Models
 {
-    class Context : DbContext
+    public class Context : DbContext
     {
     }
 }
