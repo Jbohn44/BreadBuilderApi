@@ -7,6 +7,7 @@ namespace DomainModels.Interfaces
     public interface IIngredient
     {
         public int IngredientId { get; set; }
+        public int IFormulaId { get; set; }
         public string IngredientName { get; set; }
     }
 }
