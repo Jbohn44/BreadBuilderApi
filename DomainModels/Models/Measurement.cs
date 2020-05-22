@@ -11,5 +11,6 @@ namespace DomainModels.Models
         public int MeasurementId { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public double MeasurementValue { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public MeasurementType MeasurementType { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public int IngredientId { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
     }
 }
