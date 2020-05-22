@@ -9,5 +9,6 @@ namespace DomainModels.Models
     {
         public int IngredientId { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public string IngredientName { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public int IFormulaId { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
     }
 }

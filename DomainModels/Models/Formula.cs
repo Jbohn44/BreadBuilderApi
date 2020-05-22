@@ -10,5 +10,6 @@ namespace DomainModels.Models
         public int FormulaId { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public List<IIngredient> Ingredients { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public string FormulaName { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public List<IFormulaInstructions> FormulaInstructions { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
     }
 }
