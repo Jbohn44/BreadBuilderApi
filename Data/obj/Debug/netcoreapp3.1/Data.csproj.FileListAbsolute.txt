@@ -1,5 +1,0 @@
-C:\Users\ejboh\projects\dotNet\BreadBuilder\Data\bin\Debug\netcoreapp3.1\Data.deps.json
-C:\Users\ejboh\projects\dotNet\BreadBuilder\Data\bin\Debug\netcoreapp3.1\Data.dll
-C:\Users\ejboh\projects\dotNet\BreadBuilder\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
-C:\Users\ejboh\projects\dotNet\BreadBuilder\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
-C:\Users\ejboh\projects\dotNet\BreadBuilder\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
