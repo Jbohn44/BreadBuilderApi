@@ -9,5 +9,6 @@ namespace DomainModels.Interfaces
         public int IngredientId { get; set; }
         public int IFormulaId { get; set; }
         public string IngredientName { get; set; }
+        public IMeasurement Measurement { get; set; }
     }
 }
