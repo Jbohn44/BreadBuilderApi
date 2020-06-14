@@ -27,9 +27,10 @@ namespace Repository.Repos
             return Map(formula);
         }
 
-        public Task<IFormula> Save(IFormula formula)
+        public async Task<IFormula> Save(IFormula formula)
         {
-            throw new NotImplementedException();
+            var f = new Data.Models.Formula();
+            return Map(f);
         }
 
         public Task Delete(int formulaId)
